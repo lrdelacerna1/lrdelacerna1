@@ -1,6 +1,6 @@
 # Hi, I'm Lynneth Kay R. Dela Cerna 👩‍💻
 
-I'm a Computer Science student with experience in web development and game development. I enjoy working on both the backend and frontend, and I like building projects that are either useful, fun, or both.
+I'm a 3rd Computer Science student with experience in web development and game development. I enjoy working on both the backend and frontend, and I like building projects that are either useful, fun, or both.
 
 ## Web Development
 - **PantryPal** – A meal planning app that also generates grocery lists. I worked on the backend and handled database integration.
