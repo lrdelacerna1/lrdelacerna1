@@ -1,27 +1,20 @@
-# 🌟 Hi, I'm Lynneth Kay R. Dela Cerna!
+# Hi, I'm Lynneth Kay R. Dela Cerna 👩‍💻
 
-I'm a Computer Science student with experience in **web development** and **game development**. I enjoy building practical apps, coding efficient backends, and crafting fun game experiences.
+I'm a Computer Science student with experience in web development and game development. I enjoy working on both the backend and frontend, and I like building projects that are either useful, fun, or both.
 
-## 💻 Web Development
-I've worked on full-stack web apps using tools like **React**, **Node.js**, and **Firebase**, and handled both **frontend interfaces** and **backend logic** with databases.
+## Web Development
+- **PantryPal** – A meal planning app that also generates grocery lists. I worked on the backend and handled database integration.
+- **Snackrifice** – A vending machine web app designed for UP Cebu students. I helped design the interface in Figma and built the frontend using React.
 
-Some of my web projects:
-- **PantryPal** – A smart meal planner with grocery list generation. I handled the backend and database integration.
-- **Snackrifice** – A vending machine web app for UP Cebu students. I designed the UI using Figma and helped build the frontend with ReactJS.
+## Game Development
+- **Connect Four AI** – A simple game made in C using SFML. I implemented the game logic and added an AI opponent using Minimax with Alpha-Beta Pruning.
 
-## 🎮 Game Development
-I’ve developed simple games using **C** and **C++ (with SFML)**, and built AI opponents using **Minimax** and **Alpha-Beta Pruning** for smarter gameplay.
+## Other Projects
+- **Kimi** – A custom IDE and compiler for a mini-language. I developed the backend to handle scanning, parsing, and converting code into SPIM assembly. The interface was built with JavaFX.
 
-Game-related project:
-- **Connect Four AI** – A C-based game with AI support. I built the backend logic and optimized its decision-making algorithms.
+## Interests
+- Backend systems and full-stack apps  
+- Projects that solve real-world problems
 
-## 🧠 Other Cool Stuff
-- **Kimi** – A custom IDE and compiler built with Java. I worked on the backend to handle scanning, parsing, and converting code to SPIM assembly using QtSpim. The UI was built with JavaFX.
+Feel free to explore my projects!
 
-## 🚀 Interests
-- Game AI & backend systems
-- Web development & full-stack apps
-- Turning cool ideas into working projects!
-
-## 📫 Let's Connect!
-Feel free to explore my projects, and reach out if you want to collaborate or chat about code!
