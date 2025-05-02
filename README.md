@@ -7,7 +7,7 @@ I'm a Computer Science student with experience in web development and game devel
 - **Snackrifice** – A vending machine web app designed for UP Cebu students. I helped design the interface in Figma and built the frontend using React.
 
 ## Game Development
-- **Connect Four AI** – A simple game made in C using SFML. I implemented the game logic and added an AI opponent using Minimax with Alpha-Beta Pruning.
+- **Connect Four** – A simple game made in C using SFML. I helped implementing the game logic.
 
 ## Other Projects
 - **Kimi** – A custom IDE and compiler for a mini-language. I developed the backend to handle scanning, parsing, and converting code into SPIM assembly. The interface was built with JavaFX.
